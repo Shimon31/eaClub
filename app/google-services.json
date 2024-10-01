@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561990564989",
+    "project_id": "eaclub-75f0b",
+    "storage_bucket": "eaclub-75f0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561990564989:android:5c5b1d91f3d5bb71770514",
+        "android_client_info": {
+          "package_name": "com.eaclub.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdY-4KHFWmtVTfKj6ln9MTTDjk2O7zpm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
